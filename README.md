@@ -37,6 +37,14 @@ C:\project_ai\AutoCrawler>pip install -r requirements.txt
 를 내 컴퓨터 -> 로컬 디스크 C->projetcs-> AutoCroawler-> kewwords.txt 에 dog, cat 지우고 넣어준 후 저장
 크롤링 실행
 ```
-C:\project_ai\AutoCrawler>python main.py
-
+C:\project_ai\AutoCrawler>python main.py  --limit 20
 ```
+<b>   EfficientNet-pytorch 설치
+```
+$pip install efficientnet_pytorch
+$pip install scikit-learn
+$git clone https://github.com/lukemelas/EfficientNet-PyTorch
+$cd EfficientNet-Pytorch
+$pip install -e .
+```
+
