@@ -47,4 +47,8 @@ $git clone https://github.com/lukemelas/EfficientNet-PyTorch
 $cd EfficientNet-Pytorch
 $pip install -e .
 ```
+![aa](https://github.com/user-attachments/assets/86482ef3-9988-44c5-9a4e-3747cc5b4a21)
 
+![bb](https://github.com/user-attachments/assets/11714644-0dc9-43ed-b158-97658841f846)
+![cc](https://github.com/user-attachments/assets/bd1f429b-8c5f-4a9a-bccb-9294219792ab)
+![dd](https://github.com/user-attachments/assets/be247eba-3781-40f6-9460-353558726011)
