@@ -19,6 +19,7 @@ git clone --depth 1 https://github.com/YoongiKim/AutoCrawler
 ```
 <b>
   결과
+  
 remote: Counting objects: 100% (12/12), done.
 remote: Compressing objects: 100% (11/11), done.
 remote: Total 12 (delta 0), reused 8 (delta 0), pack-reused 0
@@ -26,6 +27,7 @@ Receiving objects: 100% (12/12), 16.48 MiB | 2.30 MiB/s, done.
 
 ```
 cd AutoCrawler
+
 C:\project_ai\AutoCrawler>pip install -r requirements.txt
 ```
 <b>
@@ -38,6 +40,7 @@ C:\project_ai\AutoCrawler>pip install -r requirements.txt
 크롤링 실행
 ```
 C:\project_ai\AutoCrawler>python main.py  --limit 20
+
 ```
 <b>   EfficientNet-pytorch 설치
 ```
